@@ -40,9 +40,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="TAILWIND"  width="40" height="40"  />
                            
 </p>
-
-📄 [Meu LinkedIn](https://www.linkedin.com/in/patr%C3%ADcia-lucena-02327b234/)
-
+<br/>
 <p align="left">
   <a href="https://www.linkedin.com/in/patr%C3%ADcia-lucena-02327b234/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
