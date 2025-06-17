@@ -1,8 +1,8 @@
 ## Olá, eu sou a Patrícia Ester👋
 
-- 🔭 Atualmente sou estagiária de robótica
-- 👩‍🎓Estudante universitária na UNICAP
-- 🌱 Estudando sobre análise de dados,python e tailwind
+- 🤖 Pós-graduanda em Deep Learning pela UFPE
+- 👩‍🎓 Tecnóloga pela UNICAP
+- ☕ Javeira
 - 😄 Pronomes: ela/dela
 - ⚡ Curiosidade: admiro investigação em cibersegurança
 
