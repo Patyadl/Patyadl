@@ -1,4 +1,4 @@
-## Olá, eu sou a Patrícia Ester👋
+## Olá, eu sou a Patrícia Lucena👋
 
 - 🤖 Pós-graduanda em Deep Learning pela UFPE
 - 👩‍🎓 Tecnóloga pela UNICAP
